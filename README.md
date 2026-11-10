@@ -119,6 +119,9 @@ Latency p95 (ms) = AVERAGE(simulator_kpi_runs[latency_p95_ms])
 
 * **Interactive Drill-Through:** Right-clicking any test case on Page 1 allows engineers to drill through directly into Page 2 pre-filtered for that specific test run history, with a `<- Back` button to return.
 
+<img width="925" height="817" alt="image" src="https://github.com/user-attachments/assets/87162470-a43f-4c96-b43a-424ba70d6fbb" />
+
+
 ## 6. Analytical Finding: Uncovering the Build v4.2.1 mmWave Bug
 
 Using the interactive slicers on build `v4.2.1` and band `n258` (5G NR mmWave), the dashboard uncovered:
